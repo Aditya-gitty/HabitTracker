@@ -15,7 +15,8 @@ You can add daily habits, mark them as done, and your progress is stored locally
 ---
 
 ## 📸 Screenshots
-*(Add screenshots of your app running here)*
+<img width="1302" height="936" alt="image" src="https://github.com/user-attachments/assets/ced70c5a-9f28-4bdb-8aa3-c4c23b3cc0a2" />
+
 
 ---
 
